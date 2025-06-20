@@ -24,7 +24,7 @@ Let’s connect and build something awesome together:
 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Instagram](https://www.instagram.com/xx_samfundz5?igsh=MTlqbjhjeDJrbDlzOQ%3D%3D&utm_source=qr)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/xx_samfundz5?igsh=MTlqbjhjeDJrbDlzOQ%3D%3D&utm_source=qr)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
