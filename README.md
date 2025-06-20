@@ -22,9 +22,9 @@ Whether it's software development, databases, or automation scripts, I enjoy tur
 
 Let’s connect and build something awesome together:
 
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourhandle)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yourhandle)
+[![Instagram](https://www.instagram.com/xx_samfundz5?igsh=MTlqbjhjeDJrbDlzOQ%3D%3D&utm_source=qr)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
 
 ---
@@ -32,7 +32,7 @@ Let’s connect and build something awesome together:
 ## 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,mysql,mongodb,git,github,bootstrap,tailwind,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,php,mysql,mongodb,git,github,bootstrap,tailwind,vscode" />
 </p>
 
 ---
@@ -40,8 +40,8 @@ Let’s connect and build something awesome together:
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ogunbiyisamuel&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=ogunbiyisamuel&theme=tokyonight" />
 </p>
 
 ---
@@ -49,7 +49,7 @@ Let’s connect and build something awesome together:
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=gruvbox&margin-w=10&row=2&column=3" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ogunbiyisamuel&theme=gruvbox&margin-w=10&row=2&column=3" />
 </p>
 
 ---
