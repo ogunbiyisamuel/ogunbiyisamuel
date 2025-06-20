@@ -7,13 +7,13 @@
 
 ## 🌟 About Me
 
-Hey! I'm **[Your Name]**, a creative and enthusiastic developer from 🌍 **[Your Country/City]** who loves building cool things with code!  
-Whether it's web development, databases, or automation scripts, I enjoy turning ideas into reality with technology.  
+Hey! I'm Ogunbiyi Samuel, a creative and enthusiastic developer from Lagos Nigeria who loves building cool things with code!  
+Whether it's software development, databases, or automation scripts, I enjoy turning ideas into reality with technology.  
 
-- 🔭 I’m currently working on: **[Your current project or focus]**
-- 🌱 I’m learning: **[Latest language/tool you're learning]**
-- 🎯 Goals: **Keep improving, collaborate more, and drink less coffee... maybe 😅**
-- 💬 Ask me about: **Frontend, backend, open-source, or memes 🐸**
+- 🔭 I’m currently working on: Development of a Digital Bookstore Platform with E-Commerce Features
+- 🌱 I’m learning: SOFTWARE DEV
+- 🎯 Goals: Keep improving, collaborate more, and drink less coffee...
+- 💬 Ask me about: Frontend, backend, open-source, or memes
 - 😄 Fun fact: I write better code when my playlist is 🔥
 
 ---
@@ -75,5 +75,5 @@ If you like what I do and want to support me, you can buy me a coffee here ☕�
 ---
 
 <p align="center">
-  Made with ❤️ by <strong>[Your Name]</strong>
+  Made with ❤️ by <strong>Ogunbiyi Samuel</strong>
 </p>
